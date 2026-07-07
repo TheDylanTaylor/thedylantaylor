@@ -56,52 +56,33 @@ I'm a founder and full-stack/systems engineer who builds polished, production-gr
 
 ## Featured Projects
 
-<p align="center">
-  <a href="https://github.com/TheDylanTaylor/dylantaylor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDylanTaylor&repo=dylantaylor&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/TheDylanTaylor/OENRA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDylanTaylor&repo=OENRA&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/TheDylanTaylor/Enigma">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDylanTaylor&repo=Enigma&theme=radical&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/TheDylanTaylor/bbs-salan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDylanTaylor&repo=bbs-salan&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/TheDylanTaylor/maui-ohana">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDylanTaylor&repo=maui-ohana&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/TheDylanTaylor/Proxy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDylanTaylor&repo=Proxy&theme=radical&hide_border=true" />
-  </a>
-</p>
+**[dylantaylor.com](https://github.com/TheDylanTaylor/dylantaylor)**
+![Stars](https://img.shields.io/github/stars/TheDylanTaylor/dylantaylor?style=flat-square&logo=github&color=7C3AED) ![Top Language](https://img.shields.io/github/languages/top/TheDylanTaylor/dylantaylor?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/TheDylanTaylor/dylantaylor?style=flat-square)
+Personal site & home of Littman (AI for legal work); hand-built Next.js + React site with interactive demos, dynamic OG images, and full Vitest/Playwright/axe test coverage.
 
-**dylantaylor.com** — personal site & home of Littman (AI for legal work); hand-built Next.js + React site with interactive demos, dynamic OG images, and full Vitest/Playwright/axe test coverage.
-**OENRA** — marketing site for a chemistry-aware wine intelligence platform; Next.js + Turbopack with hand-rolled Canvas/SVG data visualizations.
-**Enigma** — C++ project focused on performance, structure, and systems-level engineering.
-**bbs-salan** — marketing showcase site for BBS Barber & Salon Supply.
-**maui-ohana** — vacation rental website for Maui Ohana.
-**Proxy** — tooling and developer workflow experimentation.
+**[OENRA](https://github.com/TheDylanTaylor/OENRA)**
+![Stars](https://img.shields.io/github/stars/TheDylanTaylor/OENRA?style=flat-square&logo=github&color=7C3AED) ![Top Language](https://img.shields.io/github/languages/top/TheDylanTaylor/OENRA?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/TheDylanTaylor/OENRA?style=flat-square)
+Marketing site for a chemistry-aware wine intelligence platform; Next.js + Turbopack with hand-rolled Canvas/SVG data visualizations.
+
+**[Enigma](https://github.com/TheDylanTaylor/Enigma)**
+![Stars](https://img.shields.io/github/stars/TheDylanTaylor/Enigma?style=flat-square&logo=github&color=7C3AED) ![Top Language](https://img.shields.io/github/languages/top/TheDylanTaylor/Enigma?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/TheDylanTaylor/Enigma?style=flat-square)
+C++ project focused on performance, structure, and systems-level engineering.
+
+**[bbs-salan](https://github.com/TheDylanTaylor/bbs-salan)**
+![Stars](https://img.shields.io/github/stars/TheDylanTaylor/bbs-salan?style=flat-square&logo=github&color=7C3AED) ![Top Language](https://img.shields.io/github/languages/top/TheDylanTaylor/bbs-salan?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/TheDylanTaylor/bbs-salan?style=flat-square)
+Marketing showcase site for BBS Barber & Salon Supply.
+
+**[maui-ohana](https://github.com/TheDylanTaylor/maui-ohana)**
+![Stars](https://img.shields.io/github/stars/TheDylanTaylor/maui-ohana?style=flat-square&logo=github&color=7C3AED) ![Top Language](https://img.shields.io/github/languages/top/TheDylanTaylor/maui-ohana?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/TheDylanTaylor/maui-ohana?style=flat-square)
+Vacation rental website for Maui Ohana.
+
+**[Proxy](https://github.com/TheDylanTaylor/Proxy)**
+![Stars](https://img.shields.io/github/stars/TheDylanTaylor/Proxy?style=flat-square&logo=github&color=7C3AED) ![Top Language](https://img.shields.io/github/languages/top/TheDylanTaylor/Proxy?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/TheDylanTaylor/Proxy?style=flat-square)
+Tooling and developer workflow experimentation.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheDylanTaylor&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDylanTaylor&layout=compact&theme=radical&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TheDylanTaylor&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheDylanTaylor&theme=radical&no-frame=true&row=1&column=7" />
-</p>
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheDylanTaylor&theme=github-compact&hide_border=true" />
