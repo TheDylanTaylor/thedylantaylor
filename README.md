@@ -108,20 +108,11 @@ Taught myself C and C++ by taking games apart and building tools that worked aro
 
 ---
 
-## GitHub Stats
+## Contribution Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheDylanTaylor&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6c7bff&icon_color=6c7bff&include_all_commits=true&count_private=true" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDylanTaylor&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6c7bff&langs_count=8" alt="top langs" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheDylanTaylor&theme=react-dark&hide_border=true&bg_color=0D1117&color=6c7bff&line=6c7bff&point=ffffff&area=true&area_color=6c7bff" alt="activity graph" width="90%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=TheDylanTaylor&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheDylanTaylor&theme=react-dark&hide_border=true&bg_color=0D1117&color=6c7bff&line=6c7bff&point=ffffff&area=true&area_color=6c7bff" alt="Dylan Taylor contribution activity" width="95%" />
 
 </div>
 
